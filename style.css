@@ -10,6 +10,9 @@
     height: auto;
 }
 
+.info{
+    max-width: 750px;
+}
 .mid-section{
     max-width: 600px;
 }
