@@ -2,12 +2,15 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    margin-bottom: 40px;
 }
 
 .profile-image{
     width: 250px;
     height: auto;
+}
+
+.info{
+    margin-bottom: 40px;
 }
 
 .about{
