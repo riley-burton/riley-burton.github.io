@@ -2,6 +2,7 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
+    max-width: 750px;
     margin-bottom: 40px;
 }
 
@@ -10,9 +11,6 @@
     height: auto;
 }
 
-.info{
-    max-width: 750px;
-}
 .mid-section{
     max-width: 600px;
 }
