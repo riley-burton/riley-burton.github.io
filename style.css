@@ -1,11 +1,21 @@
-h1
-{
+h1{
     font-family: "Open Sans", sans-serif;
     color: #ffffff;
 }
-body 
-{
+
+body{
     font-family: 'Open Sans', sans-serif;
     background-color: #1a1a1a;
     color: #ffffff;
+}
+
+.top-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.profile-image{
+    width: 250px;
+    height: auto;
 }
