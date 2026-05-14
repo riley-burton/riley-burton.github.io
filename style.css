@@ -49,6 +49,7 @@ a:active{
 
 .umass-link:active .UMass{
     color: rgb(178,178,178);
+    text-decoration: underline;
 }
 
 .umass-link .Amherst,
@@ -64,20 +65,23 @@ a:active{
 
 .umass-link:active .Amherst{
     color: rgb(228, 34, 34);
+    text-decoration: underline;
 }
 
 .ucsd-link .UC,
 .ucsd-link:link .UC
 .ucsd-link:visited .UC{
     color: rgb(60, 60, 255);
+    text-decoration: none;
 }
 
 .ucsd-link:hover .UC{
-    color: navy;
+    color: rgb(110,60,255);
 }
 
 .ucsd-link:active .UC{
-    color: rgb(10, 60, 255)
+    color: rgb(10, 60, 255);
+    text-decoration: underline;
 }
 
 .ucsd-link .SD,
@@ -86,11 +90,58 @@ a:active{
     color: gold;
 }
 
-
 .ucsd-link:hover .SD {
-    color: goldenrod;
+    color: rgb(255,175,0);
 }
 
 .ucsd-link:active .SD{
     color: yellow;
+    text-decoration: underline;
+}
+
+.uo-link .uo-University,
+.uo-link:link .uo-University,
+.uo-link:visited .uo-University{
+    color: limegreen;
+    text-decoration: none;
+}
+
+.uo-link:hover .uo-University{
+    color: rgb(100,205,50);
+}
+
+.uo-link:active .uo-University{
+    color: rgb(0,205,50);
+    text-decoration: underline;
+}
+
+.uo-link .uo-of,
+.uo-link:link .uo-of,
+.uo-link:visited .uo-of{
+    color: white;
+}
+
+.uo-link:hover .uo-of{
+    color: rgb(205,205,205);
+}
+
+.uo-link:active .uo-of{
+    color: plum;
+    text-decoration: underline;
+}
+
+.uo-link .uo-Oregon,
+.uo-link:link .uo-Oregon,
+.uo-link:visited .uo-Oregon{
+    color: yellow;
+    text-decoration: none;
+}
+
+.uo-link:hover .uo-Oregon{
+    color: rgb(255,205,0);
+}
+
+.uo-link:active .uo-Oregon{
+    color: rgb(255,255,100);
+    text-decoration: underline;
 }
