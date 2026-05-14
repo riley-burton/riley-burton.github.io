@@ -20,7 +20,7 @@ body{
     color: #ffffff;
 }
 
-a{
+a:link{
     color:aqua;
 }
 
