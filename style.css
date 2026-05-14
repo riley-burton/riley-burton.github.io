@@ -19,11 +19,3 @@ body{
     background-color: #1a1a1a;
     color: #ffffff;
 }
-
-a:link{
-    color:aqua;
-}
-
-a:hover{
-    text-decoration: underline;
-}
