@@ -157,7 +157,22 @@ a:active{
     color: rgb(115,38,153);
 }
 
-.slmath-link:hover .SLMath{
+.slmath-link:active .SLMath{
     color: rgb(179,101,217);
     text-decoration: underline;
+}
+
+.icerm-link .ICERM,
+.icerm-link:link .ICERM,
+.icerm-link:visited .ICERM{
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+.icerm-link:hover .ICERM{
+    color: rgb(101,155,188);
+}
+
+.icerm-link:active{
+    color: rgb(165,218,251);
 }
