@@ -26,17 +26,17 @@ a:active{
     text-decoration: underline;
 }
 
-.UMass{
+.umass-link .UMass,
+.umass-link:link .UMass,
+.umass-link:visited .UMass{
     color: gray;
+    text-decoration: none;
 }
 
-.Amherst{
+.umass-link .Amherst,
+.umass-link:link .Amherst,
+.umass-link:visited .Amherst{
     color: firebrick;
-}
-
-.umass-link,
-.umass-link:link,
-.umass-link:visited{
     text-decoration: none;
 }
 
