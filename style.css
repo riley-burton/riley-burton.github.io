@@ -20,3 +20,10 @@ body{
     color: #ffffff;
 }
 
+a{
+    color:aqua;
+}
+
+a:hover{
+    text-decoration: underline;
+}
