@@ -99,49 +99,49 @@ a:active{
     text-decoration: underline;
 }
 
-.uo-link .University,
-.uo-link:link .University,
-.uo-link:visited .University{
+.uo-link .uo-University,
+.uo-link:link .uo-University,
+.uo-link:visited .uo-University{
     color: limegreen;
     text-decoration: none;
 }
 
-.uo-link:hover .University{
+.uo-link:hover .uo-University{
     color: rgb(100,205,50);
 }
 
-.uo-link:active .University{
+.uo-link:active .uo-University{
     color: rgb(0,205,50);
     text-decoration: underline;
 }
 
-.uo-link .of,
-.uo-link:link .of,
-.uo-link:visited .of{
+.uo-link .uo-of,
+.uo-link:link .uo-of,
+.uo-link:visited .uo-of{
     color: white;
 }
 
-.uo-link:hover .of{
+.uo-link:hover .uo-of{
     color: rgb(205,205,205);
 }
 
-.uo-link:active .of{
+.uo-link:active .uo-of{
     color: plum;
     text-decoration: underline;
 }
 
-.uo-link .Oregon,
-.uo-link:link .Oregon,
-.uo-link:visited .Oregon{
+.uo-link .uo-Oregon,
+.uo-link:link .uo-Oregon,
+.uo-link:visited .uo-Oregon{
     color: yellow;
     text-decoration: none;
 }
 
-.uo-link:hover .Oregon{
+.uo-link:hover .uo-Oregon{
     color: rgb(255,205,0);
 }
 
-.uo-link:active .Oregon{
+.uo-link:active .uo-Oregon{
     color: rgb(255,255,100);
     text-decoration: underline;
 }
