@@ -23,6 +23,7 @@ a:hover{
 
 a:active{
     color: plum !important;
+    text-decoration: none !important;
 }
 
 h1{
