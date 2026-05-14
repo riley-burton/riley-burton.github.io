@@ -145,3 +145,19 @@ a:active{
     color: rgb(255,255,64);
     text-decoration: underline;
 }
+
+.slmath-link .SLMath,
+.slmath-link:link .SLMath,
+.slmath-link:visited .SLMath{
+    color: darkorchid;
+    text-decoration: none;
+}
+
+.slmath-link:hover .SLMath{
+    color: rgb(115,38,153);
+}
+
+.slmath-link:hover .SLMath{
+    color: rgb(179,101,217);
+    text-decoration: underline;
+}
