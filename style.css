@@ -26,6 +26,28 @@ a:active{
     text-decoration: none;
 }
 
+.UMass{
+    color: gray;
+}
+
+.Amherst{
+    color: firebrick;
+}
+
+.umass-link,
+.umass-link:link,
+.umass-link:visited{
+    text-decoration: none;
+}
+
+.umass-link:active .UMass{
+    color: rgb(78, 78, 78);
+}
+
+.umass-link:active .Amherst{
+    color: rgb(128, 34, 34);
+}
+
 h1{
     color: #ffffff;
 }
