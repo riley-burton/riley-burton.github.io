@@ -12,18 +12,18 @@
 a,
 a:link,
 a:visited{
-    color: aqua !important;
-    text-decoration: none !important;
+    color: aqua;
+    text-decoration: none;
 }
 
 a:hover{
-    color: darkcyan !important;
-    text-decoration: underline !important;
+    color: darkcyan;
+    text-decoration: underline;
 }
 
 a:active{
-    color: plum !important;
-    text-decoration: none !important;
+    color: plum;
+    text-decoration: none;
 }
 
 h1{
