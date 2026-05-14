@@ -76,11 +76,11 @@ a:active{
 }
 
 .ucsd-link:hover .UC{
-    color: rgb(110,60,255);
+    color: rgb(45,45,191);
 }
 
 .ucsd-link:active .UC{
-    color: rgb(10, 60, 255);
+    color: rgb(109, 109, 255);
     text-decoration: underline;
 }
 
@@ -91,11 +91,11 @@ a:active{
 }
 
 .ucsd-link:hover .SD {
-    color: rgb(255,175,0);
+    color: rgb(191,161,0);
 }
 
 .ucsd-link:active .SD{
-    color: yellow;
+    color: rgb(255, 255, 64);
     text-decoration: underline;
 }
 
