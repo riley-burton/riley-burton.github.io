@@ -40,13 +40,22 @@ a:active{
     text-decoration: none;
 }
 
-.umass-link:active .UMass{
+.umass-link:hover .UMass{
     color: rgb(78, 78, 78);
 }
 
-.umass-link:active .Amherst{
+.umass-link:active .UMass{
+    color: rgb(178,178,178);
+}
+
+.umass-link:hover .Amherst{
     color: rgb(128, 34, 34);
 }
+
+.umass-link:active .Amherst{
+    color: rgb(228, 34, 34);
+}
+
 
 h1{
     color: #ffffff;
