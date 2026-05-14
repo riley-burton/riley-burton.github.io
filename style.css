@@ -9,8 +9,16 @@
     height: auto;
 }
 
-a{
+a,
+a:link,
+a:visited{
     color: aqua;
+    text-decoration: none;
+}
+
+a:hover{
+    color: darkcyan;
+    text-decoration: none;
 }
 
 h1{
