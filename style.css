@@ -1,3 +1,13 @@
+h1{
+    color: #ffffff;
+}
+
+body{
+    font-family: system-ui, sans-serif;
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
 .top-section{
     display: flex;
     justify-content: space-between;
@@ -33,19 +43,19 @@ a:active{
     text-decoration: none;
 }
 
-.umass-link .Amherst,
-.umass-link:link .Amherst,
-.umass-link:visited .Amherst{
-    color: firebrick;
-    text-decoration: none;
-}
-
 .umass-link:hover .UMass{
     color: rgb(78, 78, 78);
 }
 
 .umass-link:active .UMass{
     color: rgb(178,178,178);
+}
+
+.umass-link .Amherst,
+.umass-link:link .Amherst,
+.umass-link:visited .Amherst{
+    color: firebrick;
+    text-decoration: none;
 }
 
 .umass-link:hover .Amherst{
@@ -56,13 +66,31 @@ a:active{
     color: rgb(228, 34, 34);
 }
 
-
-h1{
-    color: #ffffff;
+.ucsd-link .UC,
+.ucsd-link:link .UC
+.ucsd-link:visited .UC{
+    color: rgb(60, 60, 255);
 }
 
-body{
-    font-family: system-ui, sans-serif;
-    background-color: #1a1a1a;
-    color: #ffffff;
+.ucsd-link:hover .UC{
+    color: navy;
+}
+
+.ucsd-link:active .UC{
+    color: rgb(10, 60, 255)
+}
+
+.ucsd-link .SD,
+.ucsd-link:link .SD,
+.ucsd-link:visited .SD{
+    color: gold;
+}
+
+
+.ucsd-link:hover .SD {
+    color: goldenrod;
+}
+
+.ucsd-link:active .SD{
+    color: yellow;
 }
