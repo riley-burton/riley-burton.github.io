@@ -175,4 +175,20 @@ a:active{
 
 .icerm-link:active{
     color: rgb(165,218,251);
+    text-decoration: underline;
+}
+
+.brown-link .Brown,
+.brown-link:link .Brown,
+.brown-link:visited .Brown{
+    color: sienna;
+    text-decoration: none;
+}
+
+.brown-link:hover .Brown{
+    color: rgb(120,62,34);
+}
+
+.brown-link:active .Brown{
+    color: rgb(184,125,98)
 }
