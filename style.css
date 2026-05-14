@@ -18,12 +18,12 @@ a:visited{
 
 a:hover{
     color: darkcyan;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:active{
     color: plum;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .UMass{
